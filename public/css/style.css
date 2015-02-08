@@ -1,0 +1,14 @@
+body {
+  background-color: brown;
+}
+
+h1 {
+  color:white;
+  font-size: 50px;
+  font-family: Comic Sans MS;
+}
+
+.jumbotron {
+  background-image:url("http://www.freedirtla.com/wp-content/uploads/2014/02/dirt.jpg"); 
+  color: white;
+}
